@@ -2,5 +2,6 @@
 
 My name is Rachel Gillespie.
 
-Currently completing a Higher Diploma in Computer Science at SETU, I've built a strong foundation in Java, Object-Oriented Programming, Front-End Development, Computer Systems and Networks and Database Design and Implementation.
-What sets me apart is my background in Visual Communications and Design. I bring a rare combination of technical ability and UI/UX design thinking, enabling me to build software that is intuitive, engaging, robust and user centred. Passionate about software engineering, distributed systems, and building products that make a real difference.
+I'm a junior web developer and designer completing a Higher Diploma in Computer Science at SETU Waterford, bringing a background in Visual Communications and Design that most developers don't have. 
+My technical toolkit covers PHP, MySQL, JavaScript, Python, and HTML/CSS, and I've used it to build things that are actually deployed: a responsive weather app live on Netlify, a real-time IoT greenhouse monitor running on a Raspberry Pi with a Flask backend and live WebSocket dashboard, and a production website redesign for socialcanvas.ie.
+What sets me apart is that I can work across both sides of a project, writing clean backend code and making it look good. I'm looking for a junior or graduate role where I can contribute from day one, keep learning, and work with a team that cares about building things well.
